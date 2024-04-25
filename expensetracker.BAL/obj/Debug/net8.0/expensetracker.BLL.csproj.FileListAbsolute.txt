@@ -1,0 +1,15 @@
+D:\C# Internship\Expense Tracker\expensetracker.BAL\bin\Debug\net8.0\expensetracker.BLL.deps.json
+D:\C# Internship\Expense Tracker\expensetracker.BAL\bin\Debug\net8.0\expensetracker.BLL.dll
+D:\C# Internship\Expense Tracker\expensetracker.BAL\bin\Debug\net8.0\expensetracker.BLL.pdb
+D:\C# Internship\Expense Tracker\expensetracker.BAL\bin\Debug\net8.0\expenssetracker.DAL.dll
+D:\C# Internship\Expense Tracker\expensetracker.BAL\bin\Debug\net8.0\expenssetracker.DAL.pdb
+D:\C# Internship\Expense Tracker\expensetracker.BAL\obj\Debug\net8.0\expensetracker.BLL.csproj.AssemblyReference.cache
+D:\C# Internship\Expense Tracker\expensetracker.BAL\obj\Debug\net8.0\expensetracker.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Internship\Expense Tracker\expensetracker.BAL\obj\Debug\net8.0\expensetracker.BLL.AssemblyInfoInputs.cache
+D:\C# Internship\Expense Tracker\expensetracker.BAL\obj\Debug\net8.0\expensetracker.BLL.AssemblyInfo.cs
+D:\C# Internship\Expense Tracker\expensetracker.BAL\obj\Debug\net8.0\expensetracker.BLL.csproj.CoreCompileInputs.cache
+D:\C# Internship\Expense Tracker\expensetracker.BAL\obj\Debug\net8.0\expenset.9A712F08.Up2Date
+D:\C# Internship\Expense Tracker\expensetracker.BAL\obj\Debug\net8.0\expensetracker.BLL.dll
+D:\C# Internship\Expense Tracker\expensetracker.BAL\obj\Debug\net8.0\refint\expensetracker.BLL.dll
+D:\C# Internship\Expense Tracker\expensetracker.BAL\obj\Debug\net8.0\expensetracker.BLL.pdb
+D:\C# Internship\Expense Tracker\expensetracker.BAL\obj\Debug\net8.0\ref\expensetracker.BLL.dll
