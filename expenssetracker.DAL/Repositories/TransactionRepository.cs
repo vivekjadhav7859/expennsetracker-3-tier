@@ -30,7 +30,7 @@ namespace expenssetracker.DAL.Repositories
 
         public async Task CreateTransaction(Transaction transaction)
         {
-            // Set the Date property to the current date if it's not already set
+            // Set the Date property to the current date if it's not already set    
             if (transaction.Date == default(DateOnly))
             {
                 transaction.Date = DateOnly.FromDateTime(DateTime.Today);

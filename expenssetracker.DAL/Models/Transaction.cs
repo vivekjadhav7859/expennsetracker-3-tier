@@ -15,7 +15,7 @@ namespace Expense_Tracker.Models
         public required double Amount { get; set; }
         public string Note { get; set; }
         [Timestamp]
-        public DateOnly Date { get; set; }
+        public DateOnly Date { get; set; } 
         [NotMapped]
         public string SplitWithEmail { get; set; } 
         [NotMapped]
